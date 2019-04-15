@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InvMst", "IvnMst\InvMst.csproj", "{E64118A3-C84F-4400-873B-BD4FED253C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64118A3-C84F-4400-873B-BD4FED253C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64118A3-C84F-4400-873B-BD4FED253C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64118A3-C84F-4400-873B-BD4FED253C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64118A3-C84F-4400-873B-BD4FED253C63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EB3334F-367E-45C8-AA51-2E7FCB426142}
+	EndGlobalSection
+EndGlobal

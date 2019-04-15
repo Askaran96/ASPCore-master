@@ -1,0 +1,9 @@
+Admin username:
+super@admin.com
+Admin password:
+123456
+
+user username:
+super@super.com
+user password:
+1234
